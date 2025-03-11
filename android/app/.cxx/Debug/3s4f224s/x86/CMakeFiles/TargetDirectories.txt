@@ -1,0 +1,2 @@
+C:/Users/ajgon/FlutterProjects/walletsimulatorandroid/android/app/.cxx/Debug/3s4f224s/x86/CMakeFiles/edit_cache.dir
+C:/Users/ajgon/FlutterProjects/walletsimulatorandroid/android/app/.cxx/Debug/3s4f224s/x86/CMakeFiles/rebuild_cache.dir

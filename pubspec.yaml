@@ -1,0 +1,31 @@
+name: walletsimulatorandroid
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.10.0
+  webview_flutter_android: ^4.2.0
+  webview_flutter_wkwebview: ^3.17.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/web/js/login.js
+    - assets/web/js/gestionSaldo.js
+    - assets/web/js/settings.js
+    - assets/web/css/check.css
+    - assets/web/css/styles.css
+    - assets/web/html/login.html
+    - assets/web/html/portfolio.html
